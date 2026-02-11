@@ -2,7 +2,7 @@ class SecretWallet < Formula
   desc "Keychain-based credential manager for AI agents"
   homepage "https://github.com/baekho-lim/secret-wallet"
   url "https://github.com/baekho-lim/secret-wallet/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "5651619dcd7145b82550e67a21a54d0244eee7876463e4c50e6ae31e47b2f05a"
+  sha256 "f165215ecfe45732fedbd06a225196c395ef936a0276a5b41a7b4c5496f7e09b"
   license "MIT"
 
   depends_on :macos => :monterey
